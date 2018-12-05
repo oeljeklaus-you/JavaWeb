@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Chapter01-Servlet-HelloWorld:war exploded">
+    <output-path>$PROJECT_DIR$/Chapter01-Servlet-HelloWorld/target/Chapter01-Servlet-HelloWorld</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Chapter01-Servlet-HelloWorld" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/Chapter01-Servlet-HelloWorld/target/Chapter01-Servlet-HelloWorld/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="Chapter01-Servlet-HelloWorld/web/Web" />
+    </root>
+  </artifact>
+</component>

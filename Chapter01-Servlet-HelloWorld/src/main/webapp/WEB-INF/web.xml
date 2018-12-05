@@ -1,0 +1,20 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Servlet-HelloWorld</display-name>
+
+  <servlet>
+    <servlet-name>MyServlet2</servlet-name>
+    <servlet-class>cn.edu.hust.MyServlet</servlet-class>
+    <!--在应用程序启动时加载Servlet，这个元素意味着Servlet的第一次调用并不比后续的调用更占用时间-->
+    <load-on-startup>10</load-on-startup>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>MyServlet2</servlet-name>
+    <!--映射到url，访问这个URI可以调用-->
+    <url-pattern>/myServlet2</url-pattern>
+  </servlet-mapping>
+</web-app>
