@@ -3,6 +3,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/Chapter01-Servlet-HelloWorld" />
     <file type="web" url="file://$PROJECT_DIR$/Chapter02-Servlet-Top10Servlet" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter03-Servlet-Cookie" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
