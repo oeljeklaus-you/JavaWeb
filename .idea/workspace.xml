@@ -2,17 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bddd904f-074c-413b-b3d1-1783fbb95748" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/src/main/java/cn/edu/hust/controller/ShoppingCartServlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/src/main/java/cn/edu/hust/domain/Product.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/src/main/java/cn/edu/hust/domain/ShoppingItem.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/src/main/webapp/cartDetail.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/src/main/webapp/productList.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/src/main/webapp/success.jsp" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Chapter02_Servlet_Session_ShoppingCart_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Chapter02_Servlet_Session_ShoppingCart_war_exploded.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/Chapter02-Servlet-Session-ShoppingCart.iml" afterPath="$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/Chapter02-Servlet-Session-ShoppingCart.iml" />
-      <change beforePath="$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/pom.xml" afterPath="$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/0.JavaWeb基础.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/1.Servlet.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/2.Session管理.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/HttpService的service方法.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/Servlet:jsp架构.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/ServletConfig接口的方法.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/ServletContext接口方法.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/ServletRequest的主要方法.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/ServletResponse接口主要方法.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/Servlet接口方法.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/javaweb需要导入的jar包.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/javax.servlet.http中的主要类型.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/servlet包中的主要成员.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/png/Servlet.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/png/Session管理.png" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,68 +47,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="productList.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/src/main/webapp/productList.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShoppingCartServlet.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/src/main/java/cn/edu/hust/controller/ShoppingCartServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="25" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cartDetail.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/src/main/webapp/cartDetail.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="24" column="38" lean-forward="false" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShoppingItem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/src/main/java/cn/edu/hust/domain/ShoppingItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="success.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/src/main/webapp/success.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/src/main/java/cn/edu/hust/domain/Product.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -252,51 +195,6 @@
               <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter02-Servlet-Session-ShoppingCart" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter02-Servlet-Session-ShoppingCart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter02-Servlet-Session-ShoppingCart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter02-Servlet-Session-ShoppingCart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter02-Servlet-Session-ShoppingCart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hust" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter02-Servlet-Session-ShoppingCart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hust" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -318,6 +216,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Chapter02-Servlet-Cookie/src/main/webapp" />
       <recent name="$PROJECT_DIR$/Chapter02-Servlet-Cookie/src/main/java/cn/edu/hust" />
     </key>
@@ -441,16 +340,15 @@
       <workItem from="1543922433129" duration="6404000" />
       <workItem from="1543979025730" duration="2558000" />
       <workItem from="1544058897339" duration="4959000" />
-      <workItem from="1544080335222" duration="7069000" />
+      <workItem from="1544080335222" duration="7092000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20990000" />
+    <option name="totallyTimeSpent" value="21013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -466,7 +364,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26037195" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26037195" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -818,14 +716,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/src/main/webapp/success.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/src/main/webapp/productList.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
@@ -862,6 +752,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="25" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/src/main/webapp/success.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
           <folding />
         </state>
       </provider>
