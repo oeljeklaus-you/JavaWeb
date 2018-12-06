@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Chapter01-Servlet-HelloWorld/Chapter01-Servlet-HelloWorld.iml" filepath="$PROJECT_DIR$/Chapter01-Servlet-HelloWorld/Chapter01-Servlet-HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter02-Servlet-Cookie/Chapter02-Servlet-Cookie.iml" filepath="$PROJECT_DIR$/Chapter02-Servlet-Cookie/Chapter02-Servlet-Cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/Chapter02-Servlet-Session-ShoppingCart.iml" filepath="$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/Chapter02-Servlet-Session-ShoppingCart.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter02-Servlet-Top10Servlet/Chapter02-Servlet-Top10Servlet.iml" filepath="$PROJECT_DIR$/Chapter02-Servlet-Top10Servlet/Chapter02-Servlet-Top10Servlet.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Chapter03-Servlet-Cookie/Chapter03-Servlet-Cookie.iml" filepath="$PROJECT_DIR$/Chapter03-Servlet-Cookie/Chapter03-Servlet-Cookie.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb.iml" />
     </modules>
   </component>

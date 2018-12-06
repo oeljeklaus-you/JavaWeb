@@ -11,7 +11,8 @@
     <modules>
         <module>Chapter01-Servlet-HelloWorld</module>
         <module>Chapter02-Servlet-Top10Servlet</module>
-        <module>Chapter03-Servlet-Cookie</module>
+        <module>Chapter02-Servlet-Session-ShoppingCart</module>
+        <module>Chapter02-Servlet-Cookie</module>
     </modules>
 
     <dependencies>

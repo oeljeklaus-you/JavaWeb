@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Chapter02-Servlet-Session-ShoppingCart:war">
+    <output-path>$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/target</output-path>
+    <root id="archive" name="Chapter02-Servlet-Session-ShoppingCart.war">
+      <element id="artifact" artifact-name="Chapter02-Servlet-Session-ShoppingCart:war exploded" />
+    </root>
+  </artifact>
+</component>

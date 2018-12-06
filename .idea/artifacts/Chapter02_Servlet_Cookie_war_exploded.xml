@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="Chapter03-Servlet-Cookie:war exploded">
-    <output-path>$PROJECT_DIR$/Chapter03-Servlet-Cookie/target/Chapter03-Servlet-Cookie</output-path>
+  <artifact type="exploded-war" name="Chapter02-Servlet-Cookie:war exploded">
+    <output-path>$PROJECT_DIR$/Chapter02-Servlet-Cookie/target/Chapter02-Servlet-Cookie</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
@@ -8,7 +8,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/Chapter03-Servlet-Cookie/target/Chapter03-Servlet-Cookie/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/Chapter02-Servlet-Cookie/target/Chapter02-Servlet-Cookie/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="Chapter02-Servlet-Cookie/web/Web" />
     </root>
