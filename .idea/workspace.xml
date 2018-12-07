@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bddd904f-074c-413b-b3d1-1783fbb95748" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/3.JSP.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/JSP隐式对象.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/PageContext的scope值.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/jsp跳转页面.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/jsp页面声明类.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/使用属性设置.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/关闭jsp.png" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,8 +43,8 @@
       <file leaf-file-name="errorHandler.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/errorHandler.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="380">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -261,6 +266,18 @@
               <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
               <item name="md" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="md" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="md" type="462c0819:PsiDirectoryNode" />
+              <item name="png" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -285,6 +302,7 @@
       <recent name="$PROJECT_DIR$/Chapter02-Servlet-Top10Servlet/src/main/webapp" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/md/img" />
       <recent name="$PROJECT_DIR$/md" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Chapter02-Servlet-Cookie/src/main/webapp" />
@@ -408,12 +426,12 @@
       <workItem from="1543979025730" duration="2558000" />
       <workItem from="1544058897339" duration="4959000" />
       <workItem from="1544080335222" duration="7919000" />
-      <workItem from="1544148417263" duration="3633000" />
+      <workItem from="1544148417263" duration="3876000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25473000" />
+    <option name="totallyTimeSpent" value="25716000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -837,8 +855,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/errorHandler.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="380">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
