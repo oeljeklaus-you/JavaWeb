@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bddd904f-074c-413b-b3d1-1783fbb95748" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/JSP隐式对象.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/PageContext的scope值.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/jsp跳转页面.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/jsp页面声明类.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/使用属性设置.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/关闭jsp.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/png/jsp.png" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -270,12 +265,6 @@
               <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
               <item name="md" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="md" type="462c0819:PsiDirectoryNode" />
               <item name="png" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -302,11 +291,11 @@
       <recent name="$PROJECT_DIR$/Chapter02-Servlet-Top10Servlet/src/main/webapp" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/md/png" />
       <recent name="$PROJECT_DIR$/md/img" />
       <recent name="$PROJECT_DIR$/md" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Chapter02-Servlet-Cookie/src/main/webapp" />
-      <recent name="$PROJECT_DIR$/Chapter02-Servlet-Cookie/src/main/java/cn/edu/hust" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -426,12 +415,12 @@
       <workItem from="1543979025730" duration="2558000" />
       <workItem from="1544058897339" duration="4959000" />
       <workItem from="1544080335222" duration="7919000" />
-      <workItem from="1544148417263" duration="3876000" />
+      <workItem from="1544148417263" duration="3991000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25716000" />
+    <option name="totallyTimeSpent" value="25831000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
