@@ -1,0 +1,6 @@
+127.0.0.1 - - [07/Dec/2018:10:34:53 +0800] "GET /todayDate.jsp HTTP/1.1" 200 106 http-bio-8080-exec-1 585
+127.0.0.1 - - [07/Dec/2018:11:16:20 +0800] "GET /todayDate.jsp HTTP/1.1" 200 111 http-bio-8080-exec-1 761
+127.0.0.1 - - [07/Dec/2018:11:16:20 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-2 2
+127.0.0.1 - - [07/Dec/2018:11:16:20 +0800] "GET / HTTP/1.1" 200 52 http-bio-8080-exec-3 31
+127.0.0.1 - - [07/Dec/2018:11:16:25 +0800] "GET /main.jsp HTTP/1.1" 200 168 http-bio-8080-exec-4 42
+127.0.0.1 - - [07/Dec/2018:11:16:25 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-7 2

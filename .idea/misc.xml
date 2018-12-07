@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/Chapter02-Servlet-Cookie" />
     <file type="web" url="file://$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart" />
     <file type="web" url="file://$PROJECT_DIR$/Chapter02-Servlet-Top10Servlet" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter03-Jsp-HelloWorld" />
     <file type="web" url="file://$PROJECT_DIR$/Chapter03-Servlet-Cookie" />
   </component>
   <component name="MavenProjectsManager">

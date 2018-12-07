@@ -2,21 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bddd904f-074c-413b-b3d1-1783fbb95748" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/0.JavaWeb基础.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/1.Servlet.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/2.Session管理.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/HttpService的service方法.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/Servlet:jsp架构.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/ServletConfig接口的方法.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/ServletContext接口方法.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/ServletRequest的主要方法.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/ServletResponse接口主要方法.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/Servlet接口方法.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/javaweb需要导入的jar包.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/javax.servlet.http中的主要类型.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/servlet包中的主要成员.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/png/Servlet.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/png/Session管理.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Chapter03_Jsp_HelloWorld_war.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Chapter03_Jsp_HelloWorld_war_exploded.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/Chapter03-Jsp-HelloWorld.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/buggy.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/copyright.jspf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/errorHandler.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/main.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/todayDate.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/useBean.jsp" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/target/tomcat/logs/access_log.2018-12-06" afterPath="$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/target/tomcat/logs/access_log.2018-12-06" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,6 +28,7 @@
     <ignored path="$PROJECT_DIR$/Chapter03-Servlet-Cookie/target/" />
     <ignored path="$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/target/" />
     <ignored path="$PROJECT_DIR$/Chapter02-Servlet-Cookie/target/" />
+    <ignored path="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,12 +51,34 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="errorHandler.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/errorHandler.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buggy.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/buggy.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="jsf" />
         <option value="Jsp File" />
       </list>
     </option>
@@ -95,6 +121,14 @@
         <option value="$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/src/main/webapp/success.jsp" />
         <option value="$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/src/main/webapp/cartDetail.jsp" />
         <option value="$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/src/main/java/cn/edu/hust/controller/ShoppingCartServlet.java" />
+        <option value="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/todayDate.jsp" />
+        <option value="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/copyright.xhtml" />
+        <option value="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/copyright.jspf" />
+        <option value="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/main.jsp" />
+        <option value="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/useBean.jsp" />
+        <option value="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/errorHandler.jsp" />
+        <option value="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/buggy.jsp" />
       </list>
     </option>
   </component>
@@ -122,15 +156,11 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Chapter01-Servlet-HelloWorld Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Chapter03-Jsp-HelloWorld Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Chapter02-Servlet-Top10Servlet Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Chapter02-Servlet-Top10Servlet Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Chapter03-Jsp-HelloWorld Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
@@ -186,7 +216,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -195,12 +225,60 @@
               <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter02-Servlet-Top10Servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter03-Jsp-HelloWorld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter03-Jsp-HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter03-Jsp-HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter03-Jsp-HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter03-Jsp-HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter03-Jsp-HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -340,15 +418,17 @@
       <workItem from="1543922433129" duration="6404000" />
       <workItem from="1543979025730" duration="2558000" />
       <workItem from="1544058897339" duration="4959000" />
-      <workItem from="1544080335222" duration="7092000" />
+      <workItem from="1544080335222" duration="7919000" />
+      <workItem from="1544148417263" duration="3240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21013000" />
+    <option name="totallyTimeSpent" value="25080000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -364,7 +444,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26037195" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2639485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -425,34 +505,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter02-Servlet-Top10Servlet/src/main/webapp/city.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter02-Servlet-Top10Servlet/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter02-Servlet-Top10Servlet/src/main/java/cn/edu/hust/Top10Servlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter01-Servlet-HelloWorld/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -523,7 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="43" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -539,7 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -564,27 +618,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter03-Servlet-Cookie/src/main/webapp/success.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter03-Servlet-Cookie/src/main/webapp/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter03-Servlet-Cookie/src/main/webapp/success.jsp" />
+    <entry file="file://$PROJECT_DIR$/Chapter03-Servlet-Cookie/src/main/webapp/login.jsp" />
     <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/4.0.0/javax.servlet-api-4.0.0.jar!/javax/servlet/http/Cookie.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
           <caret line="59" column="16" lean-forward="false" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -596,27 +635,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter03-Servlet-Cookie/src/main/java/cn/edu/hust/LoginServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="19" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter03-Servlet-Cookie/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="76" column="25" lean-forward="true" selection-start-line="66" selection-start-column="16" selection-end-line="76" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter03-Servlet-Cookie/src/main/java/cn/edu/hust/LoginServlet.java" />
+    <entry file="file://$PROJECT_DIR$/Chapter03-Servlet-Cookie/pom.xml" />
     <entry file="file://$PROJECT_DIR$/Chapter02-Servlet-Cookie/src/main/java/cn/edu/hust/LoginServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -624,15 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1444">
           <caret line="76" column="25" lean-forward="false" selection-start-line="66" selection-start-column="15" selection-end-line="76" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter02-Servlet-Top10Servlet/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -648,7 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -656,7 +670,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -664,7 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -672,7 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -680,7 +691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -688,7 +698,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -696,7 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,7 +712,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="54" lean-forward="false" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,7 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="30" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -720,7 +726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
           <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -728,7 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -736,7 +740,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -744,15 +747,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
           <caret line="24" column="38" lean-forward="false" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/src/main/java/cn/edu/hust/controller/ShoppingCartServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="25" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -760,6 +754,103 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/src/main/java/cn/edu/hust/controller/ShoppingCartServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="14" column="70" lean-forward="false" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="109" column="36" lean-forward="false" selection-start-line="109" selection-start-column="36" selection-end-line="109" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter02-Servlet-Top10Servlet/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="82" column="25" lean-forward="true" selection-start-line="72" selection-start-column="16" selection-end-line="82" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/jsp/javax.servlet.jsp-api/2.3.3/javax.servlet.jsp-api-2.3.3.jar!/javax/servlet/jsp/PageContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/copyright.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/todayDate.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="25" column="6" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="25" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/useBean.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/copyright.jspf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="5" />
+          <folding>
+            <element signature="e#10#16#1#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/buggy.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/errorHandler.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -819,7 +910,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Chapter02-Servlet-Session-ShoppingCart</last-edited>
+          <last-edited>Chapter03-Jsp-HelloWorld</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -868,7 +959,7 @@
     </states>
   </component>
   <component name="mavenExecuteGoalHistory">
-    <option value="$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart" />
+    <option value="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld" />
     <option value="tomcat7:run" />
     <option value="clean package" />
     <option value="tomcat:stop" />

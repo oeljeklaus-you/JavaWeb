@@ -10,6 +10,7 @@
         <module name="Chapter02-Servlet-Cookie" />
         <module name="Chapter02-Servlet-Session-ShoppingCart" />
         <module name="Chapter02-Servlet-Top10Servlet" />
+        <module name="Chapter03-Jsp-HelloWorld" />
         <module name="Chapter03-Servlet-Cookie" />
       </profile>
     </annotationProcessing>
@@ -18,6 +19,7 @@
       <module name="Chapter02-Servlet-Cookie" target="1.7" />
       <module name="Chapter02-Servlet-Session-ShoppingCart" target="1.7" />
       <module name="Chapter02-Servlet-Top10Servlet" target="1.7" />
+      <module name="Chapter03-Jsp-HelloWorld" target="1.7" />
       <module name="Chapter03-Servlet-Cookie" target="1.7" />
       <module name="JavaWeb" target="1.5" />
     </bytecodeTargetLevel>
