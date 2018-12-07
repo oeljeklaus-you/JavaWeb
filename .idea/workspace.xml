@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bddd904f-074c-413b-b3d1-1783fbb95748" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Chapter03_Jsp_HelloWorld_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Chapter03_Jsp_HelloWorld_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/Chapter03-Jsp-HelloWorld.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/buggy.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/copyright.jspf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/errorHandler.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/main.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/todayDate.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/useBean.jsp" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/target/tomcat/logs/access_log.2018-12-06" afterPath="$PROJECT_DIR$/Chapter02-Servlet-Session-ShoppingCart/target/tomcat/logs/access_log.2018-12-06" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/3.JSP.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -56,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/errorHandler.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <caret line="9" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -273,6 +256,11 @@
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="md" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -293,13 +281,14 @@
     <property name="SearchEverywhereHistoryKey" value="5&#9;ACTION&#9;ExpandAllToLevel5" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chapter02-Servlet-Top10Servlet/src/main/webapp" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/md" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Chapter02-Servlet-Cookie/src/main/webapp" />
       <recent name="$PROJECT_DIR$/Chapter02-Servlet-Cookie/src/main/java/cn/edu/hust" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Chapter02-Servlet-Top10Servlet/src/main/webapp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -419,16 +408,15 @@
       <workItem from="1543979025730" duration="2558000" />
       <workItem from="1544058897339" duration="4959000" />
       <workItem from="1544080335222" duration="7919000" />
-      <workItem from="1544148417263" duration="3240000" />
+      <workItem from="1544148417263" duration="3633000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25080000" />
+    <option name="totallyTimeSpent" value="25473000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -444,7 +432,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2639485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2639485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -834,7 +822,7 @@
         <state relative-caret-position="38">
           <caret line="2" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="5" />
           <folding>
-            <element signature="e#10#16#1#HTML" expanded="true" />
+            <element signature="e#10#16#1#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -850,7 +838,7 @@
     <entry file="file://$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/src/main/webapp/errorHandler.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <caret line="9" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
