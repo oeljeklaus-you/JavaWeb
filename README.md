@@ -17,3 +17,8 @@
 [第三章 JSP](https://github.com/oeljeklaus-you/JavaWeb/blob/master/md/3.JSP.md)
 ### 思维导图
 ![第三章 JSP思维导图](https://github.com/oeljeklaus-you/JavaWeb/blob/master/md/png/jsp.png)
+## EL表达式
+### 知识点文件
+[EL表达式](https://github.com/oeljeklaus-you/JavaWeb/blob/master/md/4.EL表达式.md)
+### 思维导图
+![EL表达式思维导图](https://github.com/oeljeklaus-you/JavaWeb/blob/master/md/png/4.EL表达式.png)
