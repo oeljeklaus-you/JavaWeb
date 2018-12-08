@@ -12,6 +12,7 @@
         <module name="Chapter02-Servlet-Top10Servlet" />
         <module name="Chapter03-Jsp-HelloWorld" />
         <module name="Chapter03-Servlet-Cookie" />
+        <module name="Chpter04-JSP-EL" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +22,7 @@
       <module name="Chapter02-Servlet-Top10Servlet" target="1.7" />
       <module name="Chapter03-Jsp-HelloWorld" target="1.7" />
       <module name="Chapter03-Servlet-Cookie" target="1.7" />
+      <module name="Chpter04-JSP-EL" target="1.7" />
       <module name="JavaWeb" target="1.5" />
     </bytecodeTargetLevel>
   </component>
