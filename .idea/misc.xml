@@ -7,6 +7,8 @@
     <file type="web" url="file://$PROJECT_DIR$/Chapter02-Servlet-Top10Servlet" />
     <file type="web" url="file://$PROJECT_DIR$/Chapter03-Jsp-HelloWorld" />
     <file type="web" url="file://$PROJECT_DIR$/Chapter03-Servlet-Cookie" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter04-JSP-EL" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter05-JSTL" />
     <file type="web" url="file://$PROJECT_DIR$/Chpter04-JSP-EL" />
   </component>
   <component name="MavenProjectsManager">
@@ -14,6 +16,11 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Chpter04-JSP-EL/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="NodePackageJsonFileManager">

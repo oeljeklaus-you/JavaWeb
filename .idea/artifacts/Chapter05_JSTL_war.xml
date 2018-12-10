@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Chapter05-JSTL:war">
+    <output-path>$PROJECT_DIR$/Chapter05-JSTL/target</output-path>
+    <root id="archive" name="Chapter05-JSTL.war">
+      <element id="artifact" artifact-name="Chapter05-JSTL:war exploded" />
+    </root>
+  </artifact>
+</component>

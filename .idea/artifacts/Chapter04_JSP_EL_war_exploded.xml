@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Chapter04-JSP-EL:war exploded">
+    <output-path>$PROJECT_DIR$/Chapter04-JSP-EL/target/Chapter04-JSP-EL</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Chapter04-JSP-EL" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/Chapter04-JSP-EL/target/Chapter04-JSP-EL/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="Chapter04-JSP-EL/web/Web" />
+    </root>
+  </artifact>
+</component>

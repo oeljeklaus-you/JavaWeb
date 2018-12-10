@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Chapter05-JSTL:war exploded">
+    <output-path>$PROJECT_DIR$/Chapter05-JSTL/target/Chapter05-JSTL</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Chapter05-JSTL" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/Chapter05-JSTL/target/Chapter05-JSTL/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="Chapter05-JSTL/web/Web" />
+    </root>
+  </artifact>
+</component>

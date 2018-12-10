@@ -9,10 +9,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Chpter04-JSP-EL</artifactId>
+    <artifactId>Chapter05-JSTL</artifactId>
     <packaging>war</packaging>
 
-    <name>Chpter04-JSP-EL Maven Webapp</name>
+    <name>Chapter05-JSTL Maven Webapp</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 
@@ -32,7 +32,7 @@
     </dependencies>
 
     <build>
-        <finalName>Chpter04-JSP-EL</finalName>
+        <finalName>Chapter05-JSTL</finalName>
         <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
             <plugins>
                 <plugin>
@@ -63,17 +63,6 @@
                 <plugin>
                     <artifactId>maven-deploy-plugin</artifactId>
                     <version>2.8.2</version>
-                </plugin>
-                <plugin>
-                    <groupId>org.apache.tomcat.maven</groupId>
-                    <artifactId>tomcat7-maven-plugin</artifactId>
-                    <version>2.2</version>
-                    <configuration>
-                        <uriEncoding>UTF-8</uriEncoding>
-                        <port>8080</port>
-                        <path>/</path>
-                        <server>tomcat7</server>
-                    </configuration>
                 </plugin>
             </plugins>
         </pluginManagement>

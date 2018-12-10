@@ -14,7 +14,8 @@
         <module>Chapter02-Servlet-Session-ShoppingCart</module>
         <module>Chapter02-Servlet-Cookie</module>
         <module>Chapter03-Jsp-HelloWorld</module>
-        <module>Chpter04-JSP-EL</module>
+        <module>Chapter05-JSTL</module>
+        <module>Chapter04-JSP-EL</module>
     </modules>
 
     <dependencies>
