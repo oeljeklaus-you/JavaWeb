@@ -6,6 +6,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="Chapter05-JSTL" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/Chapter05-JSTL/target/Chapter05-JSTL/META-INF/MANIFEST.MF" />
