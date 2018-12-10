@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bddd904f-074c-413b-b3d1-1783fbb95748" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter05-JSTL/src/main/java/cn/edu/hust/BookServlet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter05-JSTL/src/main/java/cn/edu/hust/domain/Book.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter05-JSTL/src/main/webapp/bookList.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/5.JSTL.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/JSLT标签类库1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/JSTL标签类库2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/choose和when标签.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/forTokens标签.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/forTokens标签属性.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/foreach标签属性.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/foreach语法第一种形式.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/foreach语法第二种形式.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/if标签的属性.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/if标签的第一种形式.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/if标签的第二种形式.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/out标签.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/out标签的属性.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/remove标签删除限域变量.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/remove标签的属性.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/set标签创建限域变量的形式1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/set标签创建限域对象形式2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/set标签创建限域对象形式3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/set标签创建限域对象形式4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/set标签属性.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/md/png/5.jstl.png" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Chapter05_JSTL_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Chapter05_JSTL_war_exploded.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter04-JSP-EL/Chapter04-JSP-EL.iml" afterPath="$PROJECT_DIR$/Chapter04-JSP-EL/Chapter04-JSP-EL.iml" />
-      <change beforePath="$PROJECT_DIR$/Chapter05-JSTL/Chapter05-JSTL.iml" afterPath="$PROJECT_DIR$/Chapter05-JSTL/Chapter05-JSTL.iml" />
-      <change beforePath="$PROJECT_DIR$/Chapter05-JSTL/pom.xml" afterPath="$PROJECT_DIR$/Chapter05-JSTL/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter05-JSTL/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/Chapter05-JSTL/src/main/webapp/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/md/4.EL表达式.md" afterPath="$PROJECT_DIR$/md/4.EL表达式.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -68,11 +38,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="5.JSTL.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="5.JSTL.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/md/5.JSTL.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
+              <first_editor relative-caret-position="114">
+                <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+                <folding>
+                  <marker date="1544440636000" expanded="false" signature="2231:2550" ph="..." />
+                  <marker date="1544440636000" expanded="true" signature="2848:3249" ph="{...}" />
+                  <marker date="1544440636000" expanded="true" signature="3378:3410" ph="{...}" />
+                  <marker date="1544440636000" expanded="true" signature="3473:3979" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4.EL表达式.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/md/4.EL表达式.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="-3713">
                 <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
@@ -183,9 +171,11 @@
     <option name="jreName" value="#JAVA_INTERNAL" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="90" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -263,6 +253,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/md" />
       <recent name="$PROJECT_DIR$/Chapter02-Servlet-Top10Servlet/src/main/webapp" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -396,15 +387,15 @@
       <workItem from="1544148417263" duration="4465000" />
       <workItem from="1544191178391" duration="435000" />
       <workItem from="1544246448209" duration="2133000" />
-      <workItem from="1544433142750" duration="3190000" />
+      <workItem from="1544433142750" duration="3441000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32063000" />
+    <option name="totallyTimeSpent" value="32314000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="90" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -685,16 +676,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/md/4.EL表达式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chpter04-JSP-EL/src/main/java/cn/edu/hust/ELServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -854,7 +835,23 @@
     <entry file="file://$PROJECT_DIR$/md/5.JSTL.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            <folding>
+              <marker date="1544440636000" expanded="false" signature="2231:2550" ph="..." />
+              <marker date="1544440636000" expanded="true" signature="2848:3249" ph="{...}" />
+              <marker date="1544440636000" expanded="true" signature="3378:3410" ph="{...}" />
+              <marker date="1544440636000" expanded="true" signature="3473:3979" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/md/4.EL表达式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-3713">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
