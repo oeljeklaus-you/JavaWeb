@@ -82,3 +82,7 @@
 0:0:0:0:0:0:0:1 - - [24/Dec/2018:19:33:43 +0800] "GET /sessionServlet HTTP/1.1" 200 52 http-bio-8080-exec-4 1
 0:0:0:0:0:0:0:1 - - [24/Dec/2018:19:33:49 +0800] "GET /sessionServlet HTTP/1.1" 200 52 http-bio-8080-exec-3 2
 0:0:0:0:0:0:0:1 - - [24/Dec/2018:19:33:57 +0800] "GET /sessionServlet HTTP/1.1" 200 52 http-bio-8080-exec-5 1
+0:0:0:0:0:0:0:1 - - [24/Dec/2018:20:01:52 +0800] "GET /sessionServlet HTTP/1.1" 500 1979 http-bio-8080-exec-1 35
+0:0:0:0:0:0:0:1 - - [24/Dec/2018:20:02:15 +0800] "GET /homeController HTTP/1.1" 500 1979 http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [24/Dec/2018:20:04:49 +0800] "GET /homeController HTTP/1.1" 404 979 http-bio-8080-exec-1 40
+0:0:0:0:0:0:0:1 - - [24/Dec/2018:20:05:11 +0800] "GET /homeServlet HTTP/1.1" 200 130 http-bio-8080-exec-2 84
