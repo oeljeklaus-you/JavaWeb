@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bddd904f-074c-413b-b3d1-1783fbb95748" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Chapter06_SimpleTag_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Chapter06_SimpleTag_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Chapter08_Listener_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Chapter08_Listener_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter06-SimpleTag/Chapter06-SimpleTag.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter06-SimpleTag/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter06-SimpleTag/src/main/java/cn/edu/hust/MyFirstTag.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter06-SimpleTag/src/main/webapp/WEB-INF/mytags.tld" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter08-Listener/Chapter08-Listener.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter08-Listener/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter08-Listener/src/main/java/cn/edu/hust/controller/HomeController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter08-Listener/src/main/java/cn/edu/hust/listener/AppListener.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter08-Listener/src/main/webapp/home.jsp" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter08-Listener/src/main/java/cn/edu/hust/listener/AppAttributeListener.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/Chapter08-Listener/src/main/java/cn/edu/hust/controller/HomeController.java" afterPath="$PROJECT_DIR$/Chapter08-Listener/src/main/java/cn/edu/hust/controller/HomeController.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -61,8 +45,8 @@
       <file leaf-file-name="AppListener.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter08-Listener/src/main/java/cn/edu/hust/listener/AppListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+            <state relative-caret-position="220">
+              <caret line="17" column="59" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#759#760#0" expanded="true" />
@@ -72,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomeController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HomeController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter08-Listener/src/main/java/cn/edu/hust/controller/HomeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="216">
+              <caret line="19" column="19" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,12 +68,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter08-Listener/src/main/webapp/home.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="152">
+              <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppAttributeListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter08-Listener/src/main/java/cn/edu/hust/listener/AppAttributeListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="11" column="41" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,8 +106,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="jsf" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -134,7 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter02-Servlet-Top10Servlet/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/Chapter02-Servlet-Top10Servlet/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/Chapter02-Servlet-Top10Servlet/src/main/java/cn/edu/hust/Top10Servlet.java" />
         <option value="$PROJECT_DIR$/Chapter02-Servlet-Top10Servlet/src/main/java/cn/edu/hust/domain/Customer.java" />
@@ -181,10 +176,11 @@
         <option value="$PROJECT_DIR$/Chapter06-SimpleTag/src/main/webapp/WEB-INF/mytags.tld" />
         <option value="$PROJECT_DIR$/Chapter08-Listener/src/main/java/cn/edu/hust/Listener/AppLIstener.java" />
         <option value="$PROJECT_DIR$/Chapter08-Listener/src/main/java/cn/edu/hust/HomeController.java" />
-        <option value="$PROJECT_DIR$/Chapter08-Listener/src/main/java/cn/edu/hust/controller/HomeController.java" />
         <option value="$PROJECT_DIR$/Chapter08-Listener/src/main/java/cn/edu/hust/listener/AppListener.java" />
         <option value="$PROJECT_DIR$/Chapter08-Listener/pom.xml" />
         <option value="$PROJECT_DIR$/Chapter08-Listener/src/main/webapp/home.jsp" />
+        <option value="$PROJECT_DIR$/Chapter08-Listener/src/main/java/cn/edu/hust/controller/HomeController.java" />
+        <option value="$PROJECT_DIR$/Chapter08-Listener/src/main/java/cn/edu/hust/listener/AppAttributeListener.java" />
       </list>
     </option>
   </component>
@@ -509,12 +505,12 @@
       <workItem from="1544433142750" duration="3733000" />
       <workItem from="1544853846602" duration="816000" />
       <workItem from="1544854774389" duration="1146000" />
-      <workItem from="1545644865819" duration="2151000" />
+      <workItem from="1545644865819" duration="3537000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36719000" />
+    <option name="totallyTimeSpent" value="38105000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -530,8 +526,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28540772" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -595,13 +591,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter02-Servlet-Cookie/src/main/webapp/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter02-Servlet-Cookie/src/main/webapp/success.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -911,10 +900,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter08-Listener/src/main/webapp/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter08-Listener/src/main/java/cn/edu/hust/listener/AppListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        <state relative-caret-position="220">
+          <caret line="17" column="59" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#759#760#0" expanded="true" />
@@ -923,21 +920,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter08-Listener/src/main/java/cn/edu/hust/controller/HomeController.java">
+    <entry file="file://$PROJECT_DIR$/Chapter08-Listener/src/main/java/cn/edu/hust/listener/AppAttributeListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="163">
+          <caret line="11" column="41" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter08-Listener/src/main/webapp/home.jsp">
+    <entry file="file://$PROJECT_DIR$/Chapter08-Listener/src/main/java/cn/edu/hust/controller/HomeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="216">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
