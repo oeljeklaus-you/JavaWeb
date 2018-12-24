@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/Chapter03-Jsp-HelloWorld.iml" filepath="$PROJECT_DIR$/Chapter03-Jsp-HelloWorld/Chapter03-Jsp-HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter04-JSP-EL/Chapter04-JSP-EL.iml" filepath="$PROJECT_DIR$/Chapter04-JSP-EL/Chapter04-JSP-EL.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter05-JSTL/Chapter05-JSTL.iml" filepath="$PROJECT_DIR$/Chapter05-JSTL/Chapter05-JSTL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter06-SimpleTag/Chapter06-SimpleTag.iml" filepath="$PROJECT_DIR$/Chapter06-SimpleTag/Chapter06-SimpleTag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter08-Listener/Chapter08-Listener.iml" filepath="$PROJECT_DIR$/Chapter08-Listener/Chapter08-Listener.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb.iml" />
     </modules>
   </component>

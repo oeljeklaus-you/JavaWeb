@@ -16,6 +16,8 @@
         <module>Chapter03-Jsp-HelloWorld</module>
         <module>Chapter05-JSTL</module>
         <module>Chapter04-JSP-EL</module>
+        <module>Chapter06-SimpleTag</module>
+        <module>Chapter08-Listener</module>
     </modules>
 
     <dependencies>

@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [24/Dec/2018:18:35:36 +0800] "GET / HTTP/1.1" 200 52 http-bio-8080-exec-1 992
+0:0:0:0:0:0:0:1 - - [24/Dec/2018:18:35:36 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [24/Dec/2018:18:35:37 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 1015 http-bio-8080-exec-5 1
+0:0:0:0:0:0:0:1 - - [24/Dec/2018:18:35:37 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 991 http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [24/Dec/2018:18:35:50 +0800] "GET / HTTP/1.1" 200 52 http-bio-8080-exec-2 1
+0:0:0:0:0:0:0:1 - - [24/Dec/2018:18:35:50 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-8 1
+0:0:0:0:0:0:0:1 - - [24/Dec/2018:18:35:53 +0800] "GET /homeServlet HTTP/1.1" 200 120 http-bio-8080-exec-9 232
+0:0:0:0:0:0:0:1 - - [24/Dec/2018:18:35:53 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-4 0

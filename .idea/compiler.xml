@@ -14,6 +14,8 @@
         <module name="Chapter03-Servlet-Cookie" />
         <module name="Chapter04-JSP-EL" />
         <module name="Chapter05-JSTL" />
+        <module name="Chapter06-SimpleTag" />
+        <module name="Chapter08-Listener" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -25,6 +27,8 @@
       <module name="Chapter03-Servlet-Cookie" target="1.7" />
       <module name="Chapter04-JSP-EL" target="1.7" />
       <module name="Chapter05-JSTL" target="1.7" />
+      <module name="Chapter06-SimpleTag" target="1.7" />
+      <module name="Chapter08-Listener" target="1.7" />
       <module name="Chpter04-JSP-EL" target="1.7" />
       <module name="JavaWeb" target="1.5" />
     </bytecodeTargetLevel>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Chapter06-SimpleTag:war">
+    <output-path>$PROJECT_DIR$/Chapter06-SimpleTag/target</output-path>
+    <root id="archive" name="Chapter06-SimpleTag.war">
+      <element id="artifact" artifact-name="Chapter06-SimpleTag:war exploded" />
+    </root>
+  </artifact>
+</component>

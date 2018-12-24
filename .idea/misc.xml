@@ -9,6 +9,8 @@
     <file type="web" url="file://$PROJECT_DIR$/Chapter03-Servlet-Cookie" />
     <file type="web" url="file://$PROJECT_DIR$/Chapter04-JSP-EL" />
     <file type="web" url="file://$PROJECT_DIR$/Chapter05-JSTL" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter06-SimpleTag" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter08-Listener" />
     <file type="web" url="file://$PROJECT_DIR$/Chpter04-JSP-EL" />
   </component>
   <component name="MavenProjectsManager">
