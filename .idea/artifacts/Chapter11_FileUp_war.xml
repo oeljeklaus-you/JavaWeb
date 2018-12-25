@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Chapter11-FileUp:war">
+    <output-path>$PROJECT_DIR$/Chapter11-FileUp/target</output-path>
+    <root id="archive" name="Chapter11-FileUp.war">
+      <element id="artifact" artifact-name="Chapter11-FileUp:war exploded" />
+    </root>
+  </artifact>
+</component>
