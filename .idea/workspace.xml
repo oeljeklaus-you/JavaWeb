@@ -2,25 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bddd904f-074c-413b-b3d1-1783fbb95748" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Chapter09_LoggingFilter_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Chapter09_LoggingFilter_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Chapter09_Referer_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Chapter09_Referer_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter09-LoggingFilter/Chapter09-LoggingFilter.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter09-LoggingFilter/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter09-LoggingFilter/src/main/java/cn/edu/hust/controller/HomeController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter09-LoggingFilter/src/main/java/cn/edu/hust/filter/LoggingFilter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter09-LoggingFilter/src/main/java/cn/edu/hust/filter/LoginFilter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter09-LoggingFilter/src/main/webapp/login.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter09-Referer/Chapter09-Referer.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter09-Referer/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter09-Referer/src/main/java/cn/edu/hust/filter/RefererListener.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/9.过滤器.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/img/过滤器顺序.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/md/png/9.Filter.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -60,14 +45,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RefererListener.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter09-Referer/src/main/java/cn/edu/hust/filter/RefererListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="13" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+      <file leaf-file-name="9.过滤器.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/md/9.过滤器.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="-890">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding>
+                  <marker date="1545701137000" expanded="true" signature="284:291" ph="{}" />
+                  <marker date="1545701137000" expanded="true" signature="503:510" ph="{}" />
+                  <marker date="1545701137000" expanded="false" signature="1645:1994" ph="..." />
+                  <marker date="1545701137000" expanded="true" signature="2434:2824" ph="{...}" />
+                  <marker date="1545701137000" expanded="true" signature="2912:3354" ph="{...}" />
+                  <marker date="1545701137000" expanded="true" signature="3396:3525" ph="{...}" />
+                  <marker date="1545701137000" expanded="false" signature="3591:3856" ph="..." />
+                  <marker date="1545701137000" expanded="true" signature="4044:4099" ph="{...}" />
+                  <marker date="1545701137000" expanded="true" signature="4266:4691" ph="{...}" />
+                  <marker date="1545701137000" expanded="false" signature="4732:4743" ph=" { " />
+                  <marker date="1545701137000" expanded="false" signature="4785:4791" ph=" }" />
+                  <marker date="1545701137000" expanded="false" signature="4855:5035" ph="..." />
+                  <marker date="1545701137000" expanded="true" signature="5182:5190" ph="{}" />
+                  <marker date="1545701137000" expanded="true" signature="5357:5710" ph="{...}" />
+                  <marker date="1545701137000" expanded="true" signature="5752:5760" ph="{}" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -245,45 +247,7 @@
             <path>
               <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter09-Referer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter09-Referer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter09-Referer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter09-Referer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter09-Referer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter09-Referer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="md" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -306,20 +270,20 @@
     <property name="SearchEverywhereHistoryKey" value="ervlet&#9;FILE&#9;file:///Users/youyujie/Documents/struts/JavaWeb/Chapter05-JSTL/src/main/java/cn/edu/hust/BookServlet.java&#10;5&#9;ACTION&#9;ExpandAllToLevel5" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/md" />
+      <recent name="$PROJECT_DIR$/Chapter02-Servlet-Top10Servlet/src/main/webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.edu.hust.controller" />
+      <recent name="cn.edu.hust" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/md/img" />
       <recent name="$PROJECT_DIR$/md/png" />
       <recent name="$PROJECT_DIR$/md" />
       <recent name="$PROJECT_DIR$/Chapter04-JSP-EL/src/main/java/cn/edu/hust" />
       <recent name="$PROJECT_DIR$/Chapter04-JSP-EL/src/main/webapp" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="cn.edu.hust.controller" />
-      <recent name="cn.edu.hust" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/md" />
-      <recent name="$PROJECT_DIR$/Chapter02-Servlet-Top10Servlet/src/main/webapp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -448,16 +412,15 @@
       <workItem from="1545644865819" duration="7291000" />
       <workItem from="1545655469298" duration="14000" />
       <workItem from="1545655488819" duration="3048000" />
-      <workItem from="1545661061649" duration="1059000" />
+      <workItem from="1545661061649" duration="1696000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45980000" />
+    <option name="totallyTimeSpent" value="46617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -473,7 +436,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29756796" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29756796" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -534,13 +497,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter04-JSP-EL/src/main/java/cn/edu/hust/domain/Address.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter04-JSP-EL/src/main/java/cn/edu/hust/domain/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -910,6 +866,33 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/md/9.过滤器.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-890">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1545701137000" expanded="true" signature="284:291" ph="{}" />
+              <marker date="1545701137000" expanded="true" signature="503:510" ph="{}" />
+              <marker date="1545701137000" expanded="false" signature="1645:1994" ph="..." />
+              <marker date="1545701137000" expanded="true" signature="2434:2824" ph="{...}" />
+              <marker date="1545701137000" expanded="true" signature="2912:3354" ph="{...}" />
+              <marker date="1545701137000" expanded="true" signature="3396:3525" ph="{...}" />
+              <marker date="1545701137000" expanded="false" signature="3591:3856" ph="..." />
+              <marker date="1545701137000" expanded="true" signature="4044:4099" ph="{...}" />
+              <marker date="1545701137000" expanded="true" signature="4266:4691" ph="{...}" />
+              <marker date="1545701137000" expanded="false" signature="4732:4743" ph=" { " />
+              <marker date="1545701137000" expanded="false" signature="4785:4791" ph=" }" />
+              <marker date="1545701137000" expanded="false" signature="4855:5035" ph="..." />
+              <marker date="1545701137000" expanded="true" signature="5182:5190" ph="{}" />
+              <marker date="1545701137000" expanded="true" signature="5357:5710" ph="{...}" />
+              <marker date="1545701137000" expanded="true" signature="5752:5760" ph="{}" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
