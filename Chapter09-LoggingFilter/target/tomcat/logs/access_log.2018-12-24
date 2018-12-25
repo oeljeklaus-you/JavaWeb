@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [24/Dec/2018:22:15:46 +0800] "GET /addServlet HTTP/1.1" 200 99 http-bio-8080-exec-1 682
+0:0:0:0:0:0:0:1 - - [24/Dec/2018:22:17:03 +0800] "GET /addServlet HTTP/1.1" 200 99 http-bio-8080-exec-1 67

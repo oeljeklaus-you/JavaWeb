@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Chapter09-LoggingFilter:war">
+    <output-path>$PROJECT_DIR$/Chapter09-LoggingFilter/target</output-path>
+    <root id="archive" name="Chapter09-LoggingFilter.war">
+      <element id="artifact" artifact-name="Chapter09-LoggingFilter:war exploded" />
+    </root>
+  </artifact>
+</component>

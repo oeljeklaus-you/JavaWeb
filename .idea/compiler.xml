@@ -16,6 +16,8 @@
         <module name="Chapter05-JSTL" />
         <module name="Chapter06-SimpleTag" />
         <module name="Chapter08-Listener" />
+        <module name="Chapter09-LoggingFilter" />
+        <module name="Chapter09-Referer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,6 +31,8 @@
       <module name="Chapter05-JSTL" target="1.7" />
       <module name="Chapter06-SimpleTag" target="1.7" />
       <module name="Chapter08-Listener" target="1.7" />
+      <module name="Chapter09-LoggingFilter" target="1.7" />
+      <module name="Chapter09-Referer" target="1.7" />
       <module name="Chpter04-JSP-EL" target="1.7" />
       <module name="JavaWeb" target="1.5" />
     </bytecodeTargetLevel>

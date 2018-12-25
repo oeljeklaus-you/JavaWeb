@@ -18,6 +18,8 @@
         <module>Chapter04-JSP-EL</module>
         <module>Chapter06-SimpleTag</module>
         <module>Chapter08-Listener</module>
+        <module>Chapter09-LoggingFilter</module>
+        <module>Chapter09-Referer</module>
     </modules>
 
     <dependencies>
