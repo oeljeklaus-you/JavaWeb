@@ -11,8 +11,8 @@
     <title>多文件上传</title>
 </head>
 <body>
-<form action="" enctype="multipart/form-data" method="post">
-    选择文件:<input type="file" multiple="multiple"><br>
+<form action="/doMultipartFileUpServlet" enctype="multipart/form-data" method="post">
+    选择文件:<input type="file" name="filename" multiple="multiple"><br>
     <input type="submit" value="提交">
 </form>
 </body>

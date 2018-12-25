@@ -24,3 +24,16 @@
 0:0:0:0:0:0:0:1 - - [25/Dec/2018:10:39:03 +0800] "GET /success.jsp HTTP/1.1" 200 95 http-bio-8080-exec-2 26
 0:0:0:0:0:0:0:1 - - [25/Dec/2018:10:40:16 +0800] "POST /doFileUpServlet HTTP/1.1" 302 - http-bio-8080-exec-1 289
 0:0:0:0:0:0:0:1 - - [25/Dec/2018:10:40:16 +0800] "GET /success.jsp HTTP/1.1" 200 95 http-bio-8080-exec-2 25
+0:0:0:0:0:0:0:1 - - [25/Dec/2018:10:45:35 +0800] "GET /multipartFileUpServlet HTTP/1.1" 200 253 http-bio-8080-exec-1 746
+0:0:0:0:0:0:0:1 - - [25/Dec/2018:10:45:35 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 5
+0:0:0:0:0:0:0:1 - - [25/Dec/2018:10:48:27 +0800] "GET /multipartFileUpServlet HTTP/1.1" 200 253 http-bio-8080-exec-5 27
+0:0:0:0:0:0:0:1 - - [25/Dec/2018:10:49:05 +0800] "POST /multipartFileUpServlet HTTP/1.1" 302 - http-bio-8080-exec-6 28
+0:0:0:0:0:0:0:1 - - [25/Dec/2018:10:49:05 +0800] "GET /success.jsp HTTP/1.1" 200 95 http-bio-8080-exec-7 8
+0:0:0:0:0:0:0:1 - - [25/Dec/2018:10:49:46 +0800] "GET /multipartFileUpServlet HTTP/1.1" 200 278 http-bio-8080-exec-1 676
+0:0:0:0:0:0:0:1 - - [25/Dec/2018:10:50:00 +0800] "POST /doMultipartFileUpServlet HTTP/1.1" 302 - http-bio-8080-exec-2 14
+0:0:0:0:0:0:0:1 - - [25/Dec/2018:10:50:00 +0800] "GET /success.jsp HTTP/1.1" 200 95 http-bio-8080-exec-3 7
+0:0:0:0:0:0:0:1 - - [25/Dec/2018:10:51:28 +0800] "GET /multipartFileUpServlet HTTP/1.1" 200 294 http-bio-8080-exec-1 555
+0:0:0:0:0:0:0:1 - - [25/Dec/2018:10:51:35 +0800] "POST /doMultipartFileUpServlet HTTP/1.1" 302 - http-bio-8080-exec-2 41
+0:0:0:0:0:0:0:1 - - [25/Dec/2018:10:51:35 +0800] "GET /success.jsp HTTP/1.1" 200 95 http-bio-8080-exec-3 4
+0:0:0:0:0:0:0:1 - - [25/Dec/2018:10:52:42 +0800] "POST /doMultipartFileUpServlet HTTP/1.1" 302 - http-bio-8080-exec-5 24
+0:0:0:0:0:0:0:1 - - [25/Dec/2018:10:52:42 +0800] "GET /success.jsp HTTP/1.1" 200 95 http-bio-8080-exec-6 1
