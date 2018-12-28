@@ -23,6 +23,7 @@
         <module>Chapter11-FileUp</module>
         <module>Chapter12-FileDownload</module>
         <module>Chapter13-Decorator</module>
+        <module>Chapter13-AutoCurrectFilter</module>
     </modules>
 
     <dependencies>

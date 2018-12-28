@@ -20,6 +20,7 @@
         <module name="Chapter09-Referer" />
         <module name="Chapter11-FileUp" />
         <module name="Chapter12-FileDownload" />
+        <module name="Chapter13-AutoCurrectFilter" />
         <module name="Chapter13-Decorator" />
       </profile>
     </annotationProcessing>
@@ -38,6 +39,7 @@
       <module name="Chapter09-Referer" target="1.7" />
       <module name="Chapter11-FileUp" target="1.7" />
       <module name="Chapter12-FileDownload" target="1.7" />
+      <module name="Chapter13-AutoCurrectFilter" target="1.7" />
       <module name="Chapter13-Decorator" target="1.5" />
       <module name="Chpter04-JSP-EL" target="1.7" />
       <module name="JavaWeb" target="1.5" />

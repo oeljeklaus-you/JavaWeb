@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Chapter13-AutoCurrectFilter:war">
+    <output-path>$PROJECT_DIR$/Chapter13-AutoCurrectFilter/target</output-path>
+    <root id="archive" name="Chapter13-AutoCurrectFilter.war">
+      <element id="artifact" artifact-name="Chapter13-AutoCurrectFilter:war exploded" />
+    </root>
+  </artifact>
+</component>
