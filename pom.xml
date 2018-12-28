@@ -22,6 +22,7 @@
         <module>Chapter09-Referer</module>
         <module>Chapter11-FileUp</module>
         <module>Chapter12-FileDownload</module>
+        <module>Chapter13-Decorator</module>
     </modules>
 
     <dependencies>
