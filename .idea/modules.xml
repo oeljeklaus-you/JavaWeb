@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/Chapter09-LoggingFilter/Chapter09-LoggingFilter.iml" filepath="$PROJECT_DIR$/Chapter09-LoggingFilter/Chapter09-LoggingFilter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter09-Referer/Chapter09-Referer.iml" filepath="$PROJECT_DIR$/Chapter09-Referer/Chapter09-Referer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter11-FileUp/Chapter11-FileUp.iml" filepath="$PROJECT_DIR$/Chapter11-FileUp/Chapter11-FileUp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12-FileDownload/Chapter12-FileDownload.iml" filepath="$PROJECT_DIR$/Chapter12-FileDownload/Chapter12-FileDownload.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb.iml" />
     </modules>
   </component>

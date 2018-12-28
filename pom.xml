@@ -21,6 +21,7 @@
         <module>Chapter09-LoggingFilter</module>
         <module>Chapter09-Referer</module>
         <module>Chapter11-FileUp</module>
+        <module>Chapter12-FileDownload</module>
     </modules>
 
     <dependencies>
