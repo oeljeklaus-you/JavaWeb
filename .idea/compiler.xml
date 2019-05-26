@@ -22,6 +22,7 @@
         <module name="Chapter12-FileDownload" />
         <module name="Chapter13-AutoCurrectFilter" />
         <module name="Chapter13-Decorator" />
+        <module name="Chapter14-AsyncDispatchServlet" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -41,6 +42,7 @@
       <module name="Chapter12-FileDownload" target="1.7" />
       <module name="Chapter13-AutoCurrectFilter" target="1.7" />
       <module name="Chapter13-Decorator" target="1.5" />
+      <module name="Chapter14-AsyncDispatchServlet" target="1.7" />
       <module name="Chpter04-JSP-EL" target="1.7" />
       <module name="JavaWeb" target="1.5" />
     </bytecodeTargetLevel>

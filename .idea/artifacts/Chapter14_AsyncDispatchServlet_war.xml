@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Chapter14-AsyncDispatchServlet:war">
+    <output-path>$PROJECT_DIR$/Chapter14-AsyncDispatchServlet/target</output-path>
+    <root id="archive" name="Chapter14-AsyncDispatchServlet.war">
+      <element id="artifact" artifact-name="Chapter14-AsyncDispatchServlet:war exploded" />
+    </root>
+  </artifact>
+</component>

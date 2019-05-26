@@ -24,6 +24,7 @@
         <module>Chapter12-FileDownload</module>
         <module>Chapter13-Decorator</module>
         <module>Chapter13-AutoCurrectFilter</module>
+        <module>Chapter14-AsyncDispatchServlet</module>
     </modules>
 
     <dependencies>
