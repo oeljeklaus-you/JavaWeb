@@ -25,6 +25,7 @@
         <module>Chapter13-Decorator</module>
         <module>Chapter13-AutoCurrectFilter</module>
         <module>Chapter14-AsyncDispatchServlet</module>
+        <module>Chapter14-AsyncCompleteServlet</module>
     </modules>
 
     <dependencies>
