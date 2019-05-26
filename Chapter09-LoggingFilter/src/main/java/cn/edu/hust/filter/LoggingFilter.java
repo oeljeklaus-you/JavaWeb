@@ -12,7 +12,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 
-@WebFilter(filterName = "LoggingFilter",urlPatterns = "/*",initParams = {@WebInitParam(name="logFilfName",value="log.txt"),@WebInitParam(name="prefix",value="URI:")})
+@WebFilter(filterName = "LoggingFilter",urlPatterns = "/*",initParams = {@WebInitParam(name="logFileName",value="log.txt"),@WebInitParam(name="prefix",value="URI:")})
 public class LoggingFilter implements Filter {
     private PrintWriter logger;
     private String prefix;
@@ -28,7 +28,7 @@ public class LoggingFilter implements Filter {
     @Override
     public void init(FilterConfig filterConfig) throws ServletException {
         prefix=filterConfig.getInitParameter("prefix");
-        String logFileName=filterConfig.getInitParameter("logFilfName");
+        String logFileName=filterConfig.getInitParameter("logFileName");
         String appPath=filterConfig.getServletContext().getRealPath("/");
         System.out.println("logFileName:"+logFileName);
         try
