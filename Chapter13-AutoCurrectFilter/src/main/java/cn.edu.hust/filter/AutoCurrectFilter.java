@@ -11,7 +11,7 @@ import java.util.*;
 public class AutoCurrectFilter implements Filter {
     @Override
     public void init(FilterConfig filterConfig) throws ServletException {
-        System.out.printf("filter init....");
+        System.out.printf("filter init...");
     }
 
     @Override
