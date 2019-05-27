@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Chapter14-AsyncListener:war">
+    <output-path>$PROJECT_DIR$/Chapter14-AsyncListener/target</output-path>
+    <root id="archive" name="Chapter14-AsyncListener.war">
+      <element id="artifact" artifact-name="Chapter14-AsyncListener:war exploded" />
+    </root>
+  </artifact>
+</component>

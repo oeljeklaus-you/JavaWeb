@@ -24,6 +24,7 @@
         <module name="Chapter13-Decorator" />
         <module name="Chapter14-AsyncCompleteServlet" />
         <module name="Chapter14-AsyncDispatchServlet" />
+        <module name="Chapter14-AsyncListener" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -45,6 +46,7 @@
       <module name="Chapter13-Decorator" target="1.5" />
       <module name="Chapter14-AsyncCompleteServlet" target="1.7" />
       <module name="Chapter14-AsyncDispatchServlet" target="1.7" />
+      <module name="Chapter14-AsyncListener" target="1.7" />
       <module name="Chpter04-JSP-EL" target="1.7" />
       <module name="JavaWeb" target="1.5" />
     </bytecodeTargetLevel>
