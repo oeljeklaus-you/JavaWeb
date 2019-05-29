@@ -18,6 +18,7 @@
         <module name="Chapter08-Listener" />
         <module name="Chapter09-LoggingFilter" />
         <module name="Chapter09-Referer" />
+        <module name="Chapter10-ServletController" />
         <module name="Chapter11-FileUp" />
         <module name="Chapter12-FileDownload" />
         <module name="Chapter13-AutoCurrectFilter" />
@@ -40,6 +41,7 @@
       <module name="Chapter08-Listener" target="1.7" />
       <module name="Chapter09-LoggingFilter" target="1.7" />
       <module name="Chapter09-Referer" target="1.7" />
+      <module name="Chapter10-ServletController" target="1.7" />
       <module name="Chapter11-FileUp" target="1.7" />
       <module name="Chapter12-FileDownload" target="1.7" />
       <module name="Chapter13-AutoCurrectFilter" target="1.7" />

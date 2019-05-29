@@ -1,0 +1,4 @@
+cn/edu/hust/action/SaveProductAction.class
+cn/edu/hust/utils/ProductForm.class
+cn/edu/hust/controller/ControllerServlet.class
+cn/edu/hust/domain/Product.class

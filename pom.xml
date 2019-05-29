@@ -27,6 +27,7 @@
         <module>Chapter14-AsyncDispatchServlet</module>
         <module>Chapter14-AsyncCompleteServlet</module>
         <module>Chapter14-AsyncListener</module>
+        <module>Chapter10-ServletController</module>
     </modules>
 
     <dependencies>

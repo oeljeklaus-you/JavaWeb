@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [29/May/2019:19:43:31 +0800] "GET /product_input HTTP/1.1" 200 847 http-bio-8080-exec-1 674
+0:0:0:0:0:0:0:1 - - [29/May/2019:19:43:35 +0800] "POST /product_save HTTP/1.1" 200 291 http-bio-8080-exec-2 177
