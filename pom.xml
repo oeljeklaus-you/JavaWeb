@@ -30,6 +30,7 @@
         <module>Chapter10-ServletController</module>
         <module>Chapter15-BASIC-Authentication</module>
         <module>Chapter15-DIGEST-Authentication</module>
+        <module>Chapter15-FORM-Authentication</module>
     </modules>
 
     <dependencies>

@@ -22,6 +22,7 @@
     <file type="web" url="file://$PROJECT_DIR$/Chapter14-AsyncListener" />
     <file type="web" url="file://$PROJECT_DIR$/Chapter15-BASIC-Authentication" />
     <file type="web" url="file://$PROJECT_DIR$/Chapter15-DIGEST-Authentication" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter15-FORM-Authentication" />
     <file type="web" url="file://$PROJECT_DIR$/Chpter04-JSP-EL" />
   </component>
   <component name="MavenProjectsManager">
