@@ -27,6 +27,7 @@
         <module name="Chapter14-AsyncDispatchServlet" />
         <module name="Chapter14-AsyncListener" />
         <module name="Chapter15-BASIC-Authentication" />
+        <module name="Chapter15-DIGEST-Authentication" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -51,6 +52,7 @@
       <module name="Chapter14-AsyncDispatchServlet" target="1.7" />
       <module name="Chapter14-AsyncListener" target="1.7" />
       <module name="Chapter15-BASIC-Authentication" target="1.7" />
+      <module name="Chapter15-DIGEST-Authentication" target="1.7" />
       <module name="Chpter04-JSP-EL" target="1.7" />
       <module name="JavaWeb" target="1.5" />
     </bytecodeTargetLevel>

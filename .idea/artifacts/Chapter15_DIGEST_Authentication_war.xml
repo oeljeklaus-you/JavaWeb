@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Chapter15-DIGEST-Authentication:war">
+    <output-path>$PROJECT_DIR$/Chapter15-DIGEST-Authentication/target</output-path>
+    <root id="archive" name="Chapter15-DIGEST-Authentication.war">
+      <element id="artifact" artifact-name="Chapter15-DIGEST-Authentication:war exploded" />
+    </root>
+  </artifact>
+</component>

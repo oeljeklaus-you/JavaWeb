@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/Chapter14-AsyncDispatchServlet/Chapter14-AsyncDispatchServlet.iml" filepath="$PROJECT_DIR$/Chapter14-AsyncDispatchServlet/Chapter14-AsyncDispatchServlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter14-AsyncListener/Chapter14-AsyncListener.iml" filepath="$PROJECT_DIR$/Chapter14-AsyncListener/Chapter14-AsyncListener.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter15-BASIC-Authentication/Chapter15-BASIC-Authentication.iml" filepath="$PROJECT_DIR$/Chapter15-BASIC-Authentication/Chapter15-BASIC-Authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter15-DIGEST-Authentication/Chapter15-DIGEST-Authentication.iml" filepath="$PROJECT_DIR$/Chapter15-DIGEST-Authentication/Chapter15-DIGEST-Authentication.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb.iml" />
     </modules>
   </component>
