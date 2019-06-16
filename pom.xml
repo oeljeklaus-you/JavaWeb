@@ -28,6 +28,7 @@
         <module>Chapter14-AsyncCompleteServlet</module>
         <module>Chapter14-AsyncListener</module>
         <module>Chapter10-ServletController</module>
+        <module>Chapter15-BASIC-Authentication</module>
     </modules>
 
     <dependencies>
