@@ -23,5 +23,6 @@
     <file url="file://$PROJECT_DIR$/Chapter15-DIGEST-Authentication" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Chapter15-FORM-Authentication" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Chapter17-DynamicServlet" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter17-ServletContainerInitializer" charset="UTF-8" />
   </component>
 </project>

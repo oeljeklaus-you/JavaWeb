@@ -30,6 +30,7 @@
         <module name="Chapter15-DIGEST-Authentication" />
         <module name="Chapter15-FORM-Authentication" />
         <module name="Chapter17-DynamicServlet" />
+        <module name="Chapter17-ServletContainerInitializer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -57,6 +58,7 @@
       <module name="Chapter15-DIGEST-Authentication" target="1.7" />
       <module name="Chapter15-FORM-Authentication" target="1.7" />
       <module name="Chapter17-DynamicServlet" target="1.7" />
+      <module name="Chapter17-ServletContainerInitializer" target="1.7" />
       <module name="Chpter04-JSP-EL" target="1.7" />
       <module name="JavaWeb" target="1.5" />
     </bytecodeTargetLevel>
