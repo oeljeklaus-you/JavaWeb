@@ -24,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/Chapter15-BASIC-Authentication/Chapter15-BASIC-Authentication.iml" filepath="$PROJECT_DIR$/Chapter15-BASIC-Authentication/Chapter15-BASIC-Authentication.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter15-DIGEST-Authentication/Chapter15-DIGEST-Authentication.iml" filepath="$PROJECT_DIR$/Chapter15-DIGEST-Authentication/Chapter15-DIGEST-Authentication.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter15-FORM-Authentication/Chapter15-FORM-Authentication.iml" filepath="$PROJECT_DIR$/Chapter15-FORM-Authentication/Chapter15-FORM-Authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter17-DynamicServlet/Chapter17-DynamicServlet.iml" filepath="$PROJECT_DIR$/Chapter17-DynamicServlet/Chapter17-DynamicServlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb.iml" />
     </modules>
   </component>

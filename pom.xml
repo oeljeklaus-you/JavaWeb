@@ -31,6 +31,7 @@
         <module>Chapter15-BASIC-Authentication</module>
         <module>Chapter15-DIGEST-Authentication</module>
         <module>Chapter15-FORM-Authentication</module>
+        <module>Chapter17-DynamicServlet</module>
     </modules>
 
     <dependencies>
