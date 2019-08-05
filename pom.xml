@@ -33,6 +33,7 @@
         <module>Chapter15-FORM-Authentication</module>
         <module>Chapter17-DynamicServlet</module>
         <module>Chapter17-ServletContainerInitializer</module>
+        <module>Chapter10-FilterController</module>
     </modules>
 
     <dependencies>
