@@ -34,6 +34,7 @@
         <module>Chapter17-DynamicServlet</module>
         <module>Chapter17-ServletContainerInitializer</module>
         <module>Chapter10-FilterController</module>
+        <module>Chapter10-ServletController-Validator</module>
     </modules>
 
     <dependencies>
